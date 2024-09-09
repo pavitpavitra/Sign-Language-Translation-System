@@ -18,4 +18,7 @@ This repository includes the following files:
         This notebook focuses on exporting the best-performing model and applying it to an unseen dataset.
         It demonstrates the steps required to load the model, preprocess the unseen dataset, and evaluate the model's performance.
         The results from this notebook provide insights into the model's ability to generalise to new, unseen data.
+        
+    3. Unseen Video Dataset:
+        A video dataset of sign language gestures, specifically of the number '9', was prepared to test the model in a real-time setting. This dataset is used in the second notebook to         evaluate the model's practical application and performance.
 
