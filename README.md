@@ -15,7 +15,7 @@ This repository includes the following files:
         The notebook ends with a comparative analysis of model performance based on various metrics, including accuracy, precision, recall, and F1 score.
 
     2. Export_and_Apply_Model.ipynb:
-        This notebook focuses on exporting the best-performing model and applying it to an unseen dataset.
+        This notebook focuses on building the best-performing model and applying it to an unseen dataset.
         It demonstrates the steps required to load the model, preprocess the unseen dataset, and evaluate the model's performance.
         The results from this notebook provide insights into the model's ability to generalise to new, unseen data.
         
